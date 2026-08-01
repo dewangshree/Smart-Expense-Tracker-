@@ -23,7 +23,7 @@ The project includes an automated test suite with **20 passing test cases** cove
 
 ## Tech Stack
 
-- Python 3.12
+-  Python 3.9+
 - FastAPI
 - Pydantic v2
 - Uvicorn (ASGI server)
