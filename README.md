@@ -63,7 +63,6 @@ uvicorn src.main:app --reload
 
 The API is available at `http://127.0.0.1:8000`.
 
-Interactive docs:
 ## API Documentation (Bonus)
 
 FastAPI automatically generates interactive API documentation:
