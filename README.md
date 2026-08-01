@@ -64,8 +64,12 @@ uvicorn src.main:app --reload
 The API is available at `http://127.0.0.1:8000`.
 
 Interactive docs:
+## API Documentation (Bonus)
+
+FastAPI automatically generates interactive API documentation:
+
 - Swagger UI: `http://127.0.0.1:8000/docs`
-- OpenAPI schema: `http://127.0.0.1:8000/openapi.json`
+- OpenAPI JSON Schema: `http://127.0.0.1:8000/openapi.json`
 
 ## Running Tests
 
