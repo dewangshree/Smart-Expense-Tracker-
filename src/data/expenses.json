@@ -1,0 +1,93 @@
+[
+  {
+    "id": "b0df2d6b-1942-4fdb-8818-30ad1ac3d233",
+    "title": "string",
+    "amount": 90.0,
+    "category": "string",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "68afb43c-e1c1-4e54-8c8a-49f55d39e73d",
+    "title": "string",
+    "amount": 90.0,
+    "category": "string",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "8901711f-135f-4000-89c5-c841aa609efe",
+    "title": "Sugar",
+    "amount": 90.0,
+    "category": "Groceries",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "04204195-4b34-48b6-9918-af737d8ca9b2",
+    "title": "Sugar",
+    "amount": 90.0,
+    "category": "Groceries",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "41a6827f-c1e2-4ed1-90b8-0ac8f93b244c",
+    "title": "Sugar",
+    "amount": 90.0,
+    "category": "Groceries",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "4c422b7e-d444-4b6c-8c8c-928a1fc55475",
+    "title": "Rice",
+    "amount": 60.0,
+    "category": "Groceries",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "9469a79c-3e1b-4fd4-b7f6-fc4e788cecb1",
+    "title": "Sugar",
+    "amount": 90.0,
+    "category": "Groceries",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "5ad5e10c-b82d-4196-80bd-f32328273527",
+    "title": "Petrol",
+    "amount": 1200.0,
+    "category": "Transport",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "c5df226c-fbbf-4b86-985f-f3fc839b68e6",
+    "title": "Metro Ticket",
+    "amount": 50.0,
+    "category": "Transport",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "0ceaece7-1956-4049-b443-d0d55646250b",
+    "title": "Movie Ticket",
+    "amount": 350.0,
+    "category": "Entertainment",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "fec32099-e408-4166-9177-d9988e709539",
+    "title": "Lunch",
+    "amount": 180.0,
+    "category": "Food",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "ebfa98eb-79bc-46d2-a706-de55efc5e54d",
+    "title": "Coffee",
+    "amount": 120.0,
+    "category": "Food",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "6517e682-90a9-4b01-92d8-7e0432728bbb",
+    "title": "Coffee",
+    "amount": 120.0,
+    "category": "Food",
+    "date": "2026-08-01"
+  }
+]
